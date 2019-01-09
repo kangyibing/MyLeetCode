@@ -2,7 +2,7 @@ class Solution:
     def toLowerCase(self, str):
         """
         :type str: str
-        :rtype: str
+        :rtype: st
         """
         #解法一
         # str=str.lower()
