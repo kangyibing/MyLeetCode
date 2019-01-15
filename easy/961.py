@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 class Solution(object):
     def repeatedNTimes(self, A):
         """

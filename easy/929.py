@@ -1,3 +1,4 @@
+# -*- coding: UTF-8 -*-
 class Solution:
     def numUniqueEmails(self, emails):
         """
